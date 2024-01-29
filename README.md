@@ -1,0 +1,2 @@
+# NumberGameCodeWaySolution
+Task1
